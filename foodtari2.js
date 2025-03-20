@@ -3130,7 +3130,7 @@ function generator(_0x3b0d9b) {
       return _0x592bc0 <= _0x10119f;
     },
     "xJFWW": "#HTML99 .license-code",
-    "PTZfN": "RFA7",
+    "PTZfN": "aKO8dKR2En0lsJ0tM6CnErTcsI==",
     "RVxxl": "<style>#peringatan span{font-size:50px}#peringatan{position: fixed!important;z-index: 999999!important;top: 0!important;left: 0!important;width: 100%!important;height: 100%!important;display: flex!important;background: rgba(0,0,0,.4)!important;}#peringatan-wrap{display: block!important;margin: auto!important;width: 600px!important;max-width: 90%!important;text-align: center!important;background: #fff!important;padding: 40px!important;border-radius: 8px!important;}#peringatan h4{font-size:20px}#peringatan a{position:relative;display:block;margin:0 auto;font-size:14px;font-weight:600;color:#00626b;}#batas-waktu-template{position:relative;display:inline-block;padding:15px;margin:0 auto;background-color:#00626b;color:#fff;font-size:16px;font-weight:600;border:5px solid #00f7ca;border-radius:50%}</style><div id='peringatan'><div id='peringatan-wrap'><h4>WARNING!</h4><p>Please Activate Your License</p><div id='batas-waktu-template'></div><div id='hasil'></div></div></div>",
     "udFfW": function (_0x2d8b2e, _0x5762af) {
       return _0x2d8b2e != _0x5762af;
@@ -3142,7 +3142,7 @@ function generator(_0x3b0d9b) {
   var _0x1dc23a = _0x3b0d9b.feed.id.$t;
   var _0x2caced = _0x1dc23a.split("-");
   var _0x23ef64 = _0x2caced[0x1];
-  var _0x492035 = keyLisensi.desimple("RFA7");
+  var _0x492035 = keyLisensi.desimple("aKO8dKR2En0lsJ0tM6CnErTcsI==");
   var _0x1f97cc = _0x23ef64 + _0x492035;
   var _0x52cbab = $("#HTML99 .license-code").text();
   if (_0x52cbab == '') {
