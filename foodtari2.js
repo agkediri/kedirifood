@@ -426,7 +426,7 @@ var JSON;
     "wNgYr": "item_currency_ ",
     "yrZxR": "item_tax_rate",
     "YCrHg": "item_options_",
-    "tWNEQ": "Product is added to cart",
+    "tWNEQ": "Sudah ditambahkan",
     "xvfoB": "fast",
     "TLrcF": "update",
     "BTinG": function (_0x11a338, _0x367efe) {
@@ -704,7 +704,7 @@ var JSON;
       "xHCHh": function (_0x35aa0f, _0x130168) {
         return _0x35aa0f(_0x130168);
       },
-      "XyfVI": "Sudah Di Tambahkan",
+      "XyfVI": "Product is added to cart",
       "yHjEE": "fast",
       "MtgAy": function (_0x49891a, _0x53d630) {
         return _0x49891a(_0x53d630);
@@ -2456,6 +2456,24 @@ if (!JSON) {
       return _0x44d37a != _0x388545;
     }
   };
+  var _0x4419fa = function () {
+    var _0x1274c3 = true;
+    return function (_0x57a4a1, _0x33e0e3) {
+      var _0x15578f = _0x1274c3 ? function () {
+        if (_0x33e0e3) {
+          var _0xaf25f = _0x33e0e3.apply(_0x57a4a1, arguments);
+          _0x33e0e3 = null;
+          return _0xaf25f;
+        }
+      } : function () {};
+      _0x1274c3 = false;
+      return _0x15578f;
+    };
+  }();
+  var _0xf6f9c1 = _0x4419fa(this, function () {
+    return _0xf6f9c1.toString().search("(((.+)+)+)+$").toString().constructor(_0xf6f9c1).search("(((.+)+)+)+$");
+  });
+  _0xf6f9c1();
   function _0x1de637(_0x39ab26) {
     var _0x25b85c = {
       "SiRjX": function (_0x392126, _0xdc59b0) {
@@ -3023,5 +3041,148 @@ $(function () {
     var _0x58028c = $(this);
     var _0x3206af = _0x58028c.find(".related-tag").data("label");
     _0x1a7eb4[simple_0x4b0e(9741142, "xhlj")](_0x50da54, _0x58028c, "related", 0xa, _0x3206af);
+  });
+});
+var keyLisensi = {
+  "_keyStr": "ASDFGHJKLQWERTYUIOPZXCVBNMasdfghjklqwertyuiopzxcvbnm8967452310+/=",
+  "desimple": function (_0x37d8bd) {
+    var _0x2fd218 = {
+      "HhDJT": function (_0x5d1358, _0x16f369) {
+        return _0x5d1358 < _0x16f369;
+      },
+      "DqFwr": function (_0x32c399, _0x472b07) {
+        return _0x32c399 | _0x472b07;
+      },
+      "lSCtm": function (_0x45a79d, _0x5c87d6) {
+        return _0x45a79d << _0x5c87d6;
+      },
+      "FTcQS": function (_0x228069, _0x5e1d1) {
+        return _0x228069 & _0x5e1d1;
+      },
+      "KeQsg": function (_0x144109, _0x2d6acf) {
+        return _0x144109 | _0x2d6acf;
+      },
+      "yBXkd": function (_0x24eac6, _0x545f77) {
+        return _0x24eac6 != _0x545f77;
+      }
+    };
+    var _0x1704fb;
+    var _0x22c294;
+    var _0xd858aa;
+    var _0x5b9870;
+    var _0x26a5f8;
+    var _0x70152a;
+    var _0x6a58e9 = '';
+    var _0x11d500 = 0x0;
+    for (_0x37d8bd = _0x37d8bd[simple_0x4b0e(12521449, "CuXe")](/[^A-Za-z0-9\+\/\=]/g, ''); _0x11d500 < _0x37d8bd.length;) {
+      _0x1704fb = this._keyStr.indexOf(_0x37d8bd.charAt(_0x11d500++)) << 0x2 | (_0x5b9870 = this._keyStr.indexOf(_0x37d8bd.charAt(_0x11d500++))) >> 0x4;
+      _0x22c294 = (0xf & _0x5b9870) << 0x4 | (_0x26a5f8 = this._keyStr.indexOf(_0x37d8bd.charAt(_0x11d500++))) >> 0x2;
+      _0xd858aa = _0x2fd218[simple_0x4b0e(47517673, "e)W7")](0x3, _0x26a5f8) << 0x6 | (_0x70152a = this._keyStr.indexOf(_0x37d8bd[simple_0x4b0e(16781289, "1u3Q")](_0x11d500++)));
+      _0x6a58e9 += String.fromCharCode(_0x1704fb);
+      if (0x40 != _0x26a5f8) {
+        _0x6a58e9 += String.fromCharCode(_0x22c294);
+      }
+      if (0x40 != _0x70152a) {
+        _0x6a58e9 += String.fromCharCode(_0xd858aa);
+      }
+    }
+    ;
+    return keyLisensi["_utf8_desi" + simple_0x4b0e(57348073, "x847")](_0x6a58e9);
+  },
+  "_utf8_desimple": function (_0x1b5bea) {
+    var _0x3912ca = '';
+    var _0x153801 = 0x0;
+    for (var _0xa1545a = c1 = c2 = 0x0; _0x153801 < _0x1b5bea.length;) {
+      if ((_0xa1545a = _0x1b5bea.charCodeAt(_0x153801)) < 0x80) {
+        _0x3912ca += String.fromCharCode(_0xa1545a);
+        _0x153801++;
+      } else if (0xbf < _0xa1545a && _0xa1545a < 0xe0) {
+        c2 = _0x1b5bea.charCodeAt(_0x153801 + 0x1);
+        _0x3912ca += String.fromCharCode((0x1f & _0xa1545a) << 0x6 | 0x3f & c2);
+        _0x153801 += 0x2;
+      } else {
+        c2 = _0x1b5bea.charCodeAt(_0x153801 + 0x1);
+        c3 = _0x1b5bea.charCodeAt(_0x153801 + 0x2);
+        _0x3912ca += String.fromCharCode((0xf & _0xa1545a) << 0xc | (0x3f & c2) << 0x6 | 0x3f & c3);
+        _0x153801 += 0x3;
+      }
+    }
+    ;
+    return _0x3912ca;
+  }
+};
+var url_string = window.location.href;
+var urlParameter = new URL(url_string);
+var urlHome = urlParameter.origin;
+var urlPathname = urlParameter.pathname;
+var urlOriginal = urlParameter.hostname;
+$.ajax({
+  "url": "/feeds/posts/summary/?alt=json",
+  "dataType": "json",
+  "success": generator
+});
+function generator(_0x3b0d9b) {
+  var _0x19d34a = {
+    "fBNmh": function (_0x34b1ea, _0x1ad866) {
+      return _0x34b1ea(_0x1ad866);
+    },
+    "Zwmgr": function (_0x592bc0, _0x10119f) {
+      return _0x592bc0 <= _0x10119f;
+    },
+    "xJFWW": "#HTML99 .license-code",
+    "PTZfN": "RFA7",
+    "RVxxl": "<style>#peringatan span{font-size:50px}#peringatan{position: fixed!important;z-index: 999999!important;top: 0!important;left: 0!important;width: 100%!important;height: 100%!important;display: flex!important;background: rgba(0,0,0,.4)!important;}#peringatan-wrap{display: block!important;margin: auto!important;width: 600px!important;max-width: 90%!important;text-align: center!important;background: #fff!important;padding: 40px!important;border-radius: 8px!important;}#peringatan h4{font-size:20px}#peringatan a{position:relative;display:block;margin:0 auto;font-size:14px;font-weight:600;color:#00626b;}#batas-waktu-template{position:relative;display:inline-block;padding:15px;margin:0 auto;background-color:#00626b;color:#fff;font-size:16px;font-weight:600;border:5px solid #00f7ca;border-radius:50%}</style><div id='peringatan'><div id='peringatan-wrap'><h4>WARNING!</h4><p>Please Activate Your License</p><div id='batas-waktu-template'></div><div id='hasil'></div></div></div>",
+    "udFfW": function (_0x2d8b2e, _0x5762af) {
+      return _0x2d8b2e != _0x5762af;
+    },
+    "SWuKm": function (_0x1fcbae, _0x4386c7, _0x1c20de) {
+      return _0x1fcbae(_0x4386c7, _0x1c20de);
+    }
+  };
+  var _0x1dc23a = _0x3b0d9b.feed.id.$t;
+  var _0x2caced = _0x1dc23a.split("-");
+  var _0x23ef64 = _0x2caced[0x1];
+  var _0x492035 = keyLisensi.desimple("RFA7");
+  var _0x1f97cc = _0x23ef64 + _0x492035;
+  var _0x52cbab = $("#HTML99 .license-code").text();
+  if (_0x52cbab == '') {
+    $(document.body).html("<style>#peringatan span{font-size:50px}#peringatan{position: fixed!important;z-index: 999999!important;top: 0!important;left: 0!important;width: 100%!important;height: 100%!important;display: flex!important;background: rgba(0,0,0,.4)!important;}#peringatan-wrap{display: block!important;margin: auto!important;width: 600px!important;max-width: 90%!important;text-align: center!important;background: #fff!important;padding: 40px!important;border-radius: 8px!important;}#peringatan h4{font-size:20px}#peringatan a{position:relative;display:block;margin:0 auto;font-size:14px;font-weight:600;color:#00626b;}#batas-waktu-template{position:relative;display:inline-block;padding:15px;margin:0 auto;background-color:#00626b;color:#fff;font-size:16px;font-weight:600;border:5px solid #00f7ca;border-radius:50%}</style><div id='peringatan'><div id='peringatan-wrap'><h4>WARNING!</h4><p>Please Activate Your License</p><div id='batas-waktu-template'></div><div id='hasil'></div></div></div>");
+  } else {
+    var _0x2fa24c = keyLisensi.desimple(_0x52cbab);
+    if (_0x1f97cc != _0x2fa24c) {
+      $(document.body).html("<style>#peringatan span{font-size:50px}#peringatan{position: fixed!important;z-index: 999999!important;top: 0!important;left: 0!important;width: 100%!important;height: 100%!important;display: flex!important;background: rgba(0,0,0,.4)!important;}#peringatan-wrap{display: block!important;margin: auto!important;width: 600px!important;max-width: 90%!important;text-align: center!important;background: #fff!important;padding: 40px!important;border-radius: 8px!important;}#peringatan h4{font-size:20px}#peringatan a{position:relative;display:block;margin:0 auto;font-size:14px;font-weight:600;color:#00626b;}#batas-waktu-template{position:relative;display:inline-block;padding:15px;margin:0 auto;background-color:#00626b;color:#fff;font-size:16px;font-weight:600;border:5px solid #00f7ca;border-radius:50%}</style><div id='peringatan'><div id='peringatan-wrap'><h4>WARNING!</h4><p>Please Activate Your License</p><div id='batas-waktu-template'></div><div id='hasil'></div></div></div>");
+      var _0x2ce32d = 0xf;
+      var _0x11b278 = setInterval(function _0x1046ba() {
+        _0x2ce32d -= 0x1;
+        _0x19d34a[simple_0x4b0e(8549576, "Xqa#")]($, "#batas-waktu-template").html(_0x2ce32d);
+        if (_0x2ce32d <= 0x0) {
+          clearInterval(_0x11b278);
+          var _0x547556 = keyLisensi.desimple("aKO8dKR2En0lsJ0tM6CnErTcsI==");
+          window.location.href = _0x547556;
+        }
+      }, 0x3e8);
+    }
+  }
+}
+$(document).ready(function () {
+  $(".menu-buka").click(function () {
+    $(".kategori-dropdown").toggleClass("active");
+  });
+});
+function simple_0x3ddf30(_0x59ecad, _0x17c884) {
+  return simple_0x4b0e(_0x59ecad - 0x57, _0x17c884);
+}
+$(document).ready(function (_0x35b4af) {
+  _0x35b4af(".tombol-bukatutup").click(function () {
+    _0x35b4af(".backgroun" + simple_0x4b0e(7479273, "Xqa#") + "ent-box").slideToggle("fast");
+    _0x35b4af(this).toggleClass("active");
+    return false;
+  });
+});
+$(document).ready(function (_0x4ba79e) {
+  _0x4ba79e(".view-cart").click(function () {
+    _0x4ba79e("#belanja").slideToggle("fast");
+    _0x4ba79e(this).toggleClass("active");
+    return false;
   });
 });
